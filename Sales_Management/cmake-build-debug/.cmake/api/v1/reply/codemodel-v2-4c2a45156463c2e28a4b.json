@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "Trave_Management",
+					"name" : "Sales_Management",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "Trave_Management::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Trave_Management-Debug-fe5edebe402fe863a983.json",
-					"name" : "Trave_Management",
+					"id" : "Sales_Management::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Sales_Management-Debug-9ea15e12c697540a7923.json",
+					"name" : "Sales_Management",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/dhanu/Documents/Cpp/Trave_Management/cmake-build-debug",
-		"source" : "/Users/dhanu/Documents/Cpp/Trave_Management"
+		"build" : "/Users/dhanu/Documents/C-_Projects/Sales_Management/cmake-build-debug",
+		"source" : "/Users/dhanu/Documents/C-_Projects/Sales_Management"
 	},
 	"version" : 
 	{

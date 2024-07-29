@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/dhanu/Documents/Cpp/Trave_Management/cmake-build-debug"
+			"value" : "/Users/dhanu/Documents/C-_Projects/Sales_Management/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/dhanu/Documents/Cpp/Trave_Management/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/dhanu/Documents/C-_Projects/Sales_Management/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/dhanu/Documents/Cpp/Trave_Management"
+			"value" : "/Users/dhanu/Documents/C-_Projects/Sales_Management"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -819,7 +819,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Trave_Management"
+			"value" : "Sales_Management"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1118,7 +1118,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Trave_Management_BINARY_DIR",
+			"name" : "Sales_Management_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1127,10 +1127,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/dhanu/Documents/Cpp/Trave_Management/cmake-build-debug"
+			"value" : "/Users/dhanu/Documents/C-_Projects/Sales_Management/cmake-build-debug"
 		},
 		{
-			"name" : "Trave_Management_IS_TOP_LEVEL",
+			"name" : "Sales_Management_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1142,7 +1142,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Trave_Management_SOURCE_DIR",
+			"name" : "Sales_Management_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/dhanu/Documents/Cpp/Trave_Management"
+			"value" : "/Users/dhanu/Documents/C-_Projects/Sales_Management"
 		}
 	],
 	"kind" : "cache",
