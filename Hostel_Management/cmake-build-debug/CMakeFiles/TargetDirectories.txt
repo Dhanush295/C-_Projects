@@ -1,0 +1,3 @@
+/Users/dhanu/Documents/C-_Projects/Hostel_Management/cmake-build-debug/CMakeFiles/Hostel_Management.dir
+/Users/dhanu/Documents/C-_Projects/Hostel_Management/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dhanu/Documents/C-_Projects/Hostel_Management/cmake-build-debug/CMakeFiles/rebuild_cache.dir
